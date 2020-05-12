@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <plugin>
+        <name>Admin Finder</name>
+        <version>1.0.0</version>
+        <date>2020.04.27</date>
+        <path>AdminFinder.flx</path>   
+    </plugin>
+    
+    <plugin>
+        <name>Brute Force</name>
+        <version>1.0.0</version>
+        <date>2020.04.27</date>
+        <path>BruteForce.flx</path>           
+    </plugin>
+    
+    <plugin>
+        <name>Dictionary</name>
+        <version>1.0.0</version>
+        <date>2020.04.27</date>
+        <path>Dictionary.flx</path>           
+    </plugin>   
+	
+    <plugin>
+        <name>Encoder</name>
+        <version>1.0.0</version>
+        <date>2020.04.27</date>
+        <path>Encoder.flx</path>           
+    </plugin>      
+    
+    <plugin>
+        <name>FTP Crack</name>
+        <version>1.0.0</version>
+        <date>2020.04.27</date>
+        <path>FTPCrack.flx</path>           
+    </plugin>  
+
+    <plugin>
+        <name>IP Scanner</name>
+        <version>1.0.0</version>
+        <date>2020.04.27</date>
+        <path>IPScanner.flx</path>           
+    </plugin>  
+    
+    <plugin>
+        <name>Online Dicryptor</name>
+        <version>1.0.0</version>
+        <date>2020.04.27</date>
+        <path>OnlineDicryptor.flx</path>           
+    </plugin>   
+    
+    <plugin>
+        <name>Passwd Extractor</name>
+        <version>1.0.0</version>
+        <date>2020.04.27</date>
+        <path>PasswdExtractor.flx</path>           
+    </plugin>     
+    
+    <plugin>
+        <name>Ping</name>
+        <version>1.0.0</version>
+        <date>2020.04.27</date>
+        <path>Ping.flx</path>           
+    </plugin>    
+    
+    <plugin>
+        <name>Port Scanner</name>
+        <version>1.0.0</version>
+        <date>2020.04.27</date>
+        <path>PortScanner.flx</path>           
+    </plugin>  
+    
+    <plugin>
+        <name>Search Exploit</name>
+        <version>1.0.0</version>
+        <date>2020.04.27</date>
+        <path>SearchExploit.flx</path>           
+    </plugin>      
+    
+    <plugin>
+        <name>Tracert</name>
+        <version>1.0.0</version>
+        <date>2020.04.27</date>
+        <path>Tracert.flx</path>           
+    </plugin>       
+    
+    <plugin>
+        <name>Whois</name>
+        <version>1.0.0</version>
+        <date>2020.04.27</date>
+        <path>Whois.flx</path>           
+    </plugin>       
+    
+    <plugin>
+        <name>Wordpress Crack</name>
+        <version>1.0.0</version>
+        <date>2020.04.27</date>
+        <path>WordpressCrack.flx</path>           
+    </plugin>       
+    
+    <plugin>
+        <name>Zoneh Submitter</name>
+        <version>1.0.0</version>
+        <date>2020.04.27</date>
+        <path>ZonehSubmitter.flx</path>           
+    </plugin>    
+    
+</plugins>    
