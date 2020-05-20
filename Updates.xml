@@ -40,7 +40,14 @@
         <version>1.0.0</version>
         <date>2020.04.27</date>
         <path>IPScanner.flx</path>           
-    </plugin>  
+    </plugin> 
+    
+    <plugin>
+        <name>IP Lookup</name>
+        <version>1.0.0</version>
+        <date>2020.05.20</date>
+        <path>IPLookup.flx</path>           
+    </plugin>
     
     <plugin>
         <name>Online Dicryptor</name>
