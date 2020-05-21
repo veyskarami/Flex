@@ -76,7 +76,14 @@
         <date>2020.04.27</date>
         <path>PortScanner.flx</path>           
     </plugin>  
-    
+	
+    <plugin>
+        <name>Reverse IP</name>
+        <version>1.0.0</version>
+        <date>2020.05.21</date>
+        <path>ReverseIP.flx</path>           
+    </plugin>   
+	
     <plugin>
         <name>Search Exploit</name>
         <version>1.0.0</version>
