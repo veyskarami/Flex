@@ -15,7 +15,7 @@
     </plugin>
     
     <plugin>
-        <name>CMS Detector</name>
+        <name>CMS Lookup</name>
         <version>1.0.0</version>
         <date>2020.06.03</date>
         <path>CMSLookup.flx</path>           
