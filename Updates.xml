@@ -33,7 +33,7 @@
         <version>1.0.0</version>
         <date>2020.04.27</date>
         <path>Encoder.flx</path>           
-    </plugin>      
+    </plugin>  
     
     <plugin>
         <name>FTP Crack</name>
@@ -103,7 +103,14 @@
         <version>1.0.0</version>
         <date>2020.04.27</date>
         <path>Tracert.flx</path>           
-    </plugin>       
+    </plugin>
+	
+    <plugin>
+        <name>Wifi Hack</name>
+        <version>1.0.0</version>
+        <date>2020.07.08</date>
+        <path>WifiHack.flx</path>           
+    </plugin>  	
     
     <plugin>
         <name>Whois</name>
